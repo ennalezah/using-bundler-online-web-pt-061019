@@ -1,4 +1,4 @@
-require_realtive './config/environment.rb'
+require_realtive '../config/environment.rb'
 Hashie
 Sinatra
 Octokit
