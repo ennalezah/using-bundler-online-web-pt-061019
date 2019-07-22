@@ -1,4 +1,4 @@
-require
+require_realtive ''
 Hashie
 Sinatra
 Octokit
